@@ -1,1 +1,5 @@
-name: Team awesome's approval workflow
+name: Team awesome´s approval workflow
+
+on: pull_request_review
+
+
